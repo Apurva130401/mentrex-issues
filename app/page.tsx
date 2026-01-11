@@ -48,7 +48,7 @@ export default function IssuesPage() {
               Found a bug or have a technical suggestion? Open an issue directly on our GitHub repository to track progress.
             </p>
             <Link
-              href="#"
+              href="https://github.com/Apurva130401/mentrex-issues/issues"
               target="_blank"
               className="inline-flex items-center gap-2 text-indigo-400 font-medium hover:text-indigo-300 transition-colors"
             >

@@ -10,7 +10,7 @@ We offer two dedicated channels for support and feedback to ensure your inquirie
 For reporting bugs, technical glitches, or suggesting new features, please utilize our GitHub Issues tracker.
 
 *   **Best for:** Bug reports, feature requests, technical suggestions.
-*   **Action:** [Open an Issue](https://github.com/Apurva130401/mentrex-issues/issues)
+*   **Action:** [Open an Issue](https://github.com/mentrexai/mentrex-issues/issues)
 *   **Guidelines:** Please provide detailed steps to reproduce bugs or clear descriptions for feature requests to help us assist you faster.
 
 ### 2. Email Support (General & Account)

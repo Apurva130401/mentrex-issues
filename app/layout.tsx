@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: "Mentrex Issues",
     description: "Report bugs and request features for Mentrex",
+    icons: {
+        icon: '/icon.png',
+    },
 };
 
 export default function RootLayout({
